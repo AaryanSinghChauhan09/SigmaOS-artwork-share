@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-mint-artwork-share"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS mint-artwork-share component"
+
+[lib]
+name = "mint_artwork_share"
+path = "src/lib.rs"
