@@ -1,4 +1,4 @@
-# SigmaOS-mint-artwork-share
+# SigmaOS-artwork-share
 
 Artwork sharing for SigmaOS inspired by Linux Mint
 

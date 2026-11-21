@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-mint-artwork-share: mint artwork share component model.
+//! SigmaOS-artwork-share: mint artwork share component model.
 //!
 //! Real implementation: shares, events, validation, deterministic storage.
 //! Replaces the placeholder stub.
